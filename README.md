@@ -17,12 +17,12 @@ A web application that allows to keep track of the people and the cars they own.
 
 - **Virtual DOM**: Optimizes rendering for better performance, ensuring efficient updates without unnecessary re-renders.
 
-### Prerequisites
+## Prerequisites
 
 - Node.js
 - npm
 
-### Installation
+## Installation
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
