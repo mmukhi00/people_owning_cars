@@ -1,5 +1,5 @@
 # People Owning Cars
-<strong> A web application to keep track of the people and the cars they own. It lets users add, update, and delete information from the system and read the entire list of cars for a particular person. The app uses React and GraghQL for a powerful and efficient development stack. </strong>
+ A web application to keep track of the people and the cars they own. It lets users add, update, and delete information from the system and read the entire list of cars for a particular person. The app uses React and GraghQL for a powerful and efficient development stack.
 
 https://github.com/mmukhi00/people_owning_cars/assets/116036967/98409d5c-38c7-4e2a-9b49-d86b8a221931
 
