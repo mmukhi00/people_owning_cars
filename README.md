@@ -1,5 +1,5 @@
 # People Owning Cars
-A web application that allows to to keep the track of the people and the cars they own. The app is build using React and GraghQL for a powerful and efficient development stack.
+A web application that allows to keep track of the people and the cars they own. The app uses React and GraghQL for a powerful and efficient development stack.
 
 ## Why GraphQL?
 
@@ -16,3 +16,14 @@ A web application that allows to to keep the track of the people and the cars th
 - **Component-Based Architecture**: Encourages modular, reusable components, improving code organization and scalability.
 
 - **Virtual DOM**: Optimizes rendering for better performance, ensuring efficient updates without unnecessary re-renders.
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run npm start (for both client and server)
