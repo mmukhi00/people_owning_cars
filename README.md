@@ -1,6 +1,8 @@
 # People Owning Cars
 A web application that allows to keep track of the people and the cars they own. The app uses React and GraghQL for a powerful and efficient development stack.
 
+https://github.com/mmukhi00/people_owning_cars/assets/116036967/98409d5c-38c7-4e2a-9b49-d86b8a221931
+
 ## Why GraphQL?
 
 - **Efficient Data Retrieval**: GraphQL allows precise data fetching, reducing over-fetching and under-fetching of data.
