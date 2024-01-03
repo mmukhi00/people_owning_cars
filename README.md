@@ -28,4 +28,4 @@ https://github.com/mmukhi00/people_owning_cars/assets/116036967/98409d5c-38c7-4e
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Run npm start (for both client and server)
+3. Run `npm start` (for both client and server)
